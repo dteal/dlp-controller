@@ -1,0 +1,25 @@
+Specification Flowchart for Software
+------------------------------------
+
+
+SolidWorks |
+Creo       |
+Autodesk   |---> Win8 print dialog ------>|
+etc.       |                              |
+                                          |                              | Internet |
+STL  |                                    |-> Complete job description ->| LAN      |->|
+IGES |----------------->|                 |                              | USB      |  |
+SCAD |                  |                 |                                            |
+etc. |                  |-> Windows GUI ->|                                            |
+                        |                                                              |
+Manual control       |->|                                                              |-> Printer
+Printing information |                                                                 |
+                                                                                       |
+STL  |                                                                                 |
+IGES |---> USB -------->|                                                              |
+SCAD |                  |                                                              |
+etc. |                  |----> Printer Display --------------------------------------->|
+                        |
+Manual control       |->| 
+Printing information |
+
