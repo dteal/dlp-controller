@@ -5,3 +5,5 @@ Names for project:
 - Some kind of acronym
 
 Name versions after famed composers?
+
+Should be different names. One for printer, one for software.
