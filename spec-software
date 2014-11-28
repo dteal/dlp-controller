@@ -1,2 +1,15 @@
 Specification for Software
 --------------------------
+
+Firmware:
+- Runs on Raspberry Pi.
+- Actually runs the printer.
+- Connects to GUI on front of printer.
+- Connects via network or USB to client.
+
+Client:
+- Runs on Windows, etc.
+- Implements Win8 3D printer driver
+- Input STL, etc. (hopefully IGES/STEP eventually)
+- Outputs complete print job file w/ part, orientation, settings to Firmware
+- Displays print status relayed from Firmware.
