@@ -1,2 +1,37 @@
 Specification for Hardware
 --------------------------
+
+Goal: Everything should be off-the-shelf for easy purchase / assembly.
+Misumi's great; it has all kinds of T-slot, linear slides, etc.
+
+Frame (kind of expensive; perhaps I shouldn't overengineer as much?):
+- Misumi 40mm 2-slot black anodized T-slot (HFSB5-4040)
+- Matching black anodized brackets, heavy duty (HBLUDB5)
+- Nuts, Bolts
+- End caps
+- Leveling feet
+- Acrylic side plates
+
+Projector:
+- DLP something. I'll try to get one used, but cheap off-the-shelf would be better.
+
+Z-Stage:
+- Pre-built linear stage
+- NEMA 17 or 23
+
+Wiper (just in case. For parts with large cross-sections):
+- Linear slides
+- NEMA 17 or 23
+
+Electronics:
+- Raspberry Pi B+
+- Arduino (mini?) for stepper driver real-time control
+- Stepper driver (Geckodrive?)
+- LCD + buttons for front controller
+
+Miscellaneous:
+- USB extension cables
+- Power bus (just a power strip?)
+
+
+
