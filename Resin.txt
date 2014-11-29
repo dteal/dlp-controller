@@ -1,0 +1,3 @@
+
+Resin:
+- FunToDo has low shrinkage (~.5)% (http://www.funtodo.net/)
