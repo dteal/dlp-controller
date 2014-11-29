@@ -1,6 +1,8 @@
 Specification for Hardware
 --------------------------
 
+This will be a "top-down" style DLP-projector based stereolithography standalone 3D printer. The goal is to completely automate printing, although the user will have to remove and finish prints.
+
 Goal: Everything should be off-the-shelf for easy purchase / assembly.
 Misumi's great; it has all kinds of T-slot, linear slides, etc.
 
