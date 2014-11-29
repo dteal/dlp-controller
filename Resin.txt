@@ -1,3 +1,4 @@
 
 Resin:
 - FunToDo has low shrinkage (~.5)% (http://www.funtodo.net/)
+   (also has very fast cure rate: .5 to 1 sec. on normal DLP projector claimed)
