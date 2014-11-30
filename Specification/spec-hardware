@@ -19,6 +19,7 @@ Projector:
 
 Z-Stage:
 - Pre-built linear stage
+- Consider DIY linear stage (cheaper)
 - NEMA 17 or 23
 
 (no wiper; will experiment with printing sections of a layer at a time)
