@@ -1,0 +1,18 @@
+Software Algorithms
+-------------------
+
+Goal: Given an input file (initially only .STL), output
+a high-resolution bitmap of a single layer perpendicular to the Z axis.
+
+Should support antialiasing (optional), additional filters
+Should assume very large meshes; many, many triangles.
+
+Hopefully it can run on a Raspberry Pi.
+
+
+
+Naively:
+
+(1) Find all triangles that intersect the given plane
+(2) Find line of intersection with triangles
+(3) Use raster parity-based filling to create an image
