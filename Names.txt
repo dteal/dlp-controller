@@ -3,6 +3,7 @@ Names for project:
 - Orange (No, already taken: http://www.orangemaker.com/)
 - Mendelssohn
 - Some kind of acronym
+- "Composer"
 
 Name versions after famed composers?
 Mythical creatures are trending.
@@ -10,3 +11,8 @@ Mythical creatures are trending.
 Maybe a myth + acronym?
 
 Should be different names. One for printer, one for software.
+
+Probably nothing to do with printing; those names are way overused.
+
+Take examples from 2D printers. Inkjet, Bubblejet, Stylus, Officejet, Envy,
+Photosmart, Pixma, Selphy, Maxify, Workforce, Primera, Oki
