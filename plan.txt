@@ -1,0 +1,6 @@
+Implementation Plan
+-------------------
+
+
+
+Final Goal: Working printer + software suite
