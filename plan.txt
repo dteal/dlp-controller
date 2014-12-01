@@ -1,6 +1,28 @@
 Implementation Plan
 -------------------
 
+1) Prototyping:
+- Get some random DLP projector
+- Buy resin
+- Build Z-axis with surplus stepper motors + drivers (may be BS2-controlled)
+- Prove ideas
+- Use Creation Workshop
 
+2) Testing:
+- Control projector from Pi
+- Slice STL
+- QT on Pi
+- Control stepper from Pi
+- Connect to Pi over network/USB/internet
 
-Final Goal: Working printer + software suite
+3) Design:
+- CAD enclosure
+- Order parts
+
+4) Assembly:
+- Should be quick. All COTS parts.
+
+5) Finishing:
+- Test everything once more
+- Finalize software
+- Print!
