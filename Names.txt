@@ -15,5 +15,9 @@ Should be different names. One for printer, one for software.
 
 Probably nothing to do with printing; those names are way overused.
 
+Perhaps something very generic. Perhaps not.
+
+"Windows plugin for (x) series printer?"
+
 Take examples from 2D printers. Inkjet, Bubblejet, Stylus, Officejet, Envy,
 Photosmart, Pixma, Selphy, Maxify, Workforce, Primera, Oki
