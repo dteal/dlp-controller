@@ -24,6 +24,12 @@ Z-Stage:
 
 (no wiper; will experiment with printing sections of a layer at a time)
 
+Vat:
+- Glass aquarium (custom made, perhaps? Hopefully not)
+- 3 compartments - resin, saltwater, empty.
+- Liquid pump for automatic print starting
+- Liquid level sensor for same reason
+
 Electronics:
 - Raspberry Pi B+
 - Arduino (mini?) for stepper driver real-time control
