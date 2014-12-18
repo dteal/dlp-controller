@@ -8,6 +8,8 @@ Implementation Plan
 - Prove ideas
 - Use Creation Workshop
 
+- Could build one for school team - we have a spare Arduino + stepper driver ready to go.
+
 2) Testing:
 - Control projector from Pi
 - Slice STL
